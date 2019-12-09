@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=SpringJdbc_2/src\/main\/java&lt;com.np.spring.dao{EmployeeDAO.java[EmployeeDAO" modifiers="513" timestamp="1566834758545"/>
+    <typeInfo handle="=SpringJdbc_3_testProj_passenger/src\/main\/java&lt;com.np.spring.dao{PassengerDAO.java[PassengerDAO" modifiers="513" timestamp="1566878903182"/>
+    <typeInfo handle="=SpringJdbc_2/C:\/Users\/kpras\/.m2\/repository\/org\/springframework\/spring-jdbc\/5.1.5.RELEASE\/spring-jdbc-5.1.5.RELEASE.jar&lt;org.springframework.jdbc.core(RowMapper.class[RowMapper" modifiers="1537" timestamp="1565771396672"/>
+    <typeInfo handle="=SpringORM_1/src\/main\/java&lt;com.np.spring.orm.product.dao{ProductDAO.java[ProductDAO" modifiers="513" timestamp="1566929152648"/>
+    <typeInfo handle="=SpringORM_1/C:\/Users\/kpras\/.m2\/repository\/org\/springframework\/spring-orm\/5.1.5.RELEASE\/spring-orm-5.1.5.RELEASE.jar&lt;org.springframework.orm.hibernate5(LocalSessionFactoryBean.class[LocalSessionFactoryBean" modifiers="33" timestamp="1566891284003"/>
+    <typeInfo handle="=SpringORM_1/C:\/Users\/kpras\/.m2\/repository\/org\/springframework\/spring-orm\/5.1.5.RELEASE\/spring-orm-5.1.5.RELEASE.jar&lt;org.springframework.orm.hibernate5(HibernateTemplate.class[HibernateTemplate" modifiers="33" timestamp="1566891284003"/>
+    <typeInfo handle="=SpringORM_1/C:\/Users\/kpras\/.m2\/repository\/org\/springframework\/spring-orm\/5.1.5.RELEASE\/spring-orm-5.1.5.RELEASE.jar&lt;org.springframework.orm.hibernate5(HibernateTransactionManager.class[HibernateTransactionManager" modifiers="33" timestamp="1566891284003"/>
+    <typeInfo handle="=SpringAop/src\/main\/java&lt;com.np.spring.service{Intrest.java[Intrest" modifiers="513" timestamp="1568376266230"/>
+</typeInfoHistroy>

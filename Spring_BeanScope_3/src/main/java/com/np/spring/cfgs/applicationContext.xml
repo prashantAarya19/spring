@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id = "intrest" class = "com.np.spring.beans.Intrest" scope = "prototype" >
+		<property name="rate" value = "13"></property>
+	</bean>
+	
+	<!-- Autowire property should always be there in dependent bean  -->
+	<bean id = "bank" class = "com.np.spring.beans.Bank" scope = "prototype"  autowire="byName">
+		<!-- <property name = "intrest" ref = "intrest" /> -->
+	</bean>
+</beans>

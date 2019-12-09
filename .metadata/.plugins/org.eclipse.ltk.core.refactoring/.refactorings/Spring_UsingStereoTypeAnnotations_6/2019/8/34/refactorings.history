@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.np.spring.cfgs&apos; to &apos;SpringJdbc_1/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;Spring_UsingStereoTypeAnnotations_6&apos;&#x0D;&#x0A;- Destination element: &apos;SpringJdbc_1/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;Spring_UsingStereoTypeAnnotations_6/src/main/java/com.np.spring.cfgs&apos;" description="Copy package" destination="=SpringJdbc_1/src\/main\/java" element1="/src\/main\/java&lt;com.np.spring.cfgs" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1566639717813" version="1.0"/>
+</session>

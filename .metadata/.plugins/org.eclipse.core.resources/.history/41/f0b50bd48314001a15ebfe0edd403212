@@ -1,0 +1,10 @@
+package com.np.springws.controller;
+
+public class StockQuoteResponse {
+	
+	private String firmName = null;
+	private int stockValue = 0;
+	
+	
+	
+}//class

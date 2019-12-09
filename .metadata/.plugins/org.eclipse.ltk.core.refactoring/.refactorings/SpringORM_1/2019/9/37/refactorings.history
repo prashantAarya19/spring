@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;applicationContext.xml&apos; to &apos;SpringAop/src/main/java/com.np.spring.cfgs&apos;&#x0D;&#x0A;- Original project: &apos;SpringORM_1&apos;&#x0D;&#x0A;- Destination element: &apos;SpringAop/src/main/java/com.np.spring.cfgs&apos;&#x0D;&#x0A;- Original element: &apos;applicationContext.xml&apos;" description="Copy file" destination="=SpringAop/src\/main\/java&lt;com.np.spring.cfgs" element1="src/main/java/com/np/spring/orm/product/cfgs/applicationContext.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1568367231417" units="0" version="1.0"/>
+</session>

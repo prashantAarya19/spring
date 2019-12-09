@@ -1,0 +1,5 @@
+package com.np.springws.controller;
+
+public class StockQuoteResponse {
+
+}
