@@ -11,7 +11,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<sprinframework.version>5.1.5.RELEASE</sprinframework.version>
+		<sprinframework.version>5.2.0.RELEASE</sprinframework.version>
 	</properties>
 
 	<dependencies>
